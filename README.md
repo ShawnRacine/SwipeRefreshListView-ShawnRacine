@@ -1,2 +1,2 @@
 # SwipeRefreshListView-ShawnRacine
-![img](https://github.com/ShawnRacine/SwipeRefreshListView-ShawnRacine/listview.gif)
+![img](https://raw.githubusercontent.com/ShawnRacine/SwipeRefreshListView-ShawnRacine/listview.gif)
